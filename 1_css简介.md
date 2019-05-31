@@ -4,7 +4,7 @@ Cascading Style Sheets     层叠样式表，也称为级联样式表，简称�
 
 CSS作用
 
-​            a. 实现内容和样式分离
+​            a. 实现内容和样式分离 
 
 ​            b. 提高代码的可重用性和可维护性
 
@@ -62,7 +62,7 @@ a.写在了单独的CSS文件里,在CSS 文件里写相应的样式;
 b在.html文件里的<head>里<link href=".css" rel=""/>
 ```
 
-前提：.html与.css文件放在同一位置
+前提：.html与.css文件放在同一位置 
 
 
 

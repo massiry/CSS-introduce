@@ -2,7 +2,7 @@
 
 创建多个列来对文本进行布局类似报纸文本排版
 
-
+ 
 
 ![img](C:/Users/yafei/AppData/Local/YNote/data/m15508511041_1@163.com/fafb3a8fc8084b539b3fcd5168b0bda5/clipboard.png)
 
